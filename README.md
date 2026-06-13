@@ -94,11 +94,6 @@ SmartVehicleRentalSystem/
 │
 ├── 📂 main/
 │   └── Main.java           ← Entry point — run this file
-│
-└── 📂 .images/
-    ├── Dashboard.png
-    ├── vehicle.png
-    └── rent.png
 ```
 
 ---
@@ -119,7 +114,7 @@ SmartVehicleRentalSystem/
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/your-username/SmartVehicleRentalSystem.git
+git clone https://github.com/DevNahyanK/SmartVehicleRentalSystem.git
 
 # Step 2: Open the project folder
 cd SmartVehicleRentalSystem
@@ -157,8 +152,8 @@ cd SmartVehicleRentalSystem
 |---|---|---|
 | Muhammad Nahyan Khan | 25FA-034-DS | Data Science |
 | Ahmed Raza | 25FA-063-DS | Data Science |
-| Haroon Rana | 25FA-034-DS | Data Science |
-| Hamza Sudani | 25FA-017-DS | Data Science |
+| Haroon Rana | 25FA-002-DS | Data Science |
+| Hamza Bangali | 25FA-017-DS | Data Science |
 
 ---
 
