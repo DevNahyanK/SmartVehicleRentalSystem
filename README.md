@@ -1,15 +1,16 @@
 <div align="center">
-    <img src="images/smart.png" alt="Smart Vehicle Rental System" width="450">
-</div>
 
-# 🚗 Smart Vehicle Rental Management System
+<h1>🚗 Smart Vehicle Rental Management System</h1>
 
-**A Java desktop application built with Java Swing & OOP principles**
+<h3>A Java Desktop Application Built with Java Swing & OOP Principles</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Concepts-8A2BE2?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+<img src="images/smart.png" alt="Smart Vehicle Rental Management System" width="500">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
+<img src="https://img.shields.io/badge/OOP-Concepts-8A2BE2?style=for-the-badge" alt="OOP">
 
 </div>
 
@@ -171,6 +172,6 @@ cd SmartVehicleRentalSystem
 
 <div align="center">
 
-Made with ☕ Java & 💙 by Group DS-2025
+Made with Java 💙
 
 </div>
