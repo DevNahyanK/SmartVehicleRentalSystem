@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src=".images/Dashboard.png" alt="Smart Vehicle Rental System" width="800" style="border-radius: 12px;" />
+    <img src="images/smart.png" alt="Smart Vehicle Rental System" width="450">
+</div>
 
 # 🚗 Smart Vehicle Rental Management System
 
@@ -41,21 +41,22 @@ This project was developed as part of the **Object Oriented Programming course**
 ### 🏠 Dashboard
 > Main control panel — navigate to all modules from one place.
 
-<img src=".images/Dashboard.png" alt="Dashboard" width="750" />
+<img src="images/Dashboard.png" alt="Dashboard" width="750" />
+
 
 ---
 
 ### 🚗 Vehicle Management
 > Add cars and bikes, set daily rates, and monitor availability.
 
-<img src=".images/vehicle.png" alt="Vehicle Management" width="750" />
+<img src="images/vehicle.png" alt="Vehicle Management" width="750" />
 
 ---
 
 ### 📋 Rental Management
 > Create new bookings, assign vehicles to customers, and manage returns.
 
-<img src=".images/rent.png" alt="Rental Management" width="750" />
+<img src="images/rent.png" alt="Rental Management" width="750" />
 
 ---
 
