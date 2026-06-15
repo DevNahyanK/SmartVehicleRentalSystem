@@ -153,7 +153,7 @@ cd SmartVehicleRentalSystem
 | Muhammad Nahyan Khan | 25FA-034-DS | Data Science |
 | Ahmed Raza | 25FA-063-DS | Data Science |
 | Haroon Rana | 25FA-002-DS | Data Science |
-| Hamza Bangali | 25FA-017-DS | Data Science |
+| Hamza Ahmed | 25FA-017-DS | Data Science |
 
 ---
 
