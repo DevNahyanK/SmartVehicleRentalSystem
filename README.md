@@ -20,6 +20,7 @@
 
 **Smart Vehicle Rental Management System** is a fully functional Java desktop application that simplifies and organizes vehicle rental operations. Whether it's adding vehicles, registering customers, creating bookings, or generating bills — everything is handled through a clean and user-friendly GUI built with Java Swing.
 
+
 This project was developed as part of the **Object Oriented Programming course** and demonstrates real-world application of core OOP concepts including inheritance, encapsulation, abstraction, and polymorphism.
 
 ---
